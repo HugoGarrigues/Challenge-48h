@@ -71,19 +71,27 @@ p{
     border-bottom: 2px solid white;
 }
 
+.c3{
+    border-bottom: 2px solid white;
+}
+
+.c4{
+    border-bottom: 2px solid white;
+}
+
 .ctn-challenge{
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    width: 400px;
+    width: 500px;
     height: 250px;
 }
 
 h2{
     color: white;
     font-family: Monserrat, sans-serif;
-    font-size: 50px;
+    font-size: 35px;
 }
 
 .button{
@@ -134,5 +142,12 @@ input[type="text"] {
   .submit-button:hover{
     color: #119E9B;border: 2px solid #119E9B;
   }
+
+.logo-challenge{
+    height: 150px;
+    border-radius: 20%;
+}
+
+
 
  
