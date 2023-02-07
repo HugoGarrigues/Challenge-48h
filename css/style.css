@@ -148,6 +148,15 @@ input[type="text"] {
     border-radius: 20%;
 }
 
+.titre{
+    background-color: black;
+}
 
-
- 
+.challenge1{
+    height: 15vh;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
